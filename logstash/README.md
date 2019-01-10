@@ -1,1 +1,1 @@
-[Linked Guide](https://docs.google.com/document/d/1YRpaV-9AlArolWfbq7KqalWrSodeXjFVBJq1C6GTDts/edit?usp=sharing)
+[Linked Guide](https://docs.google.com/document/d/1wXBRQh1ZydOE8PKoaqpDQUgl_Sm8Mi68m1lPadOMFWI/edit?usp=sharing)
