@@ -78,7 +78,7 @@ ifAgent=collectd
 apt_update=no
 
 ##The server reporting Url(Do not change unless you have on-prem deployment)
-ifReportingUrl=localhost:8080
+ifReportingUrl=http://localhost:8080
 
 ##Vars for Kafka
 
